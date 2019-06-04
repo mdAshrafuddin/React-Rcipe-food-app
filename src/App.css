@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.text-slanted{
+  font-family: 'Open Sans', sans-serif;
+}
+.text-orange{
+  color: #f15025;
+}
+.latter-spacing{
+  letter-spacing:0.5rem;
+}
